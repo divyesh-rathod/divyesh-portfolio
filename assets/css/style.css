@@ -1050,6 +1050,44 @@ section .container {
   background: #15bb62;
 }
 
+.contact .info-box {
+  color: #fff;
+  padding: 20px;
+  background: #09203a;
+  margin-bottom: 20px;
+}
+
+.contact .info-box i {
+  font-size: 24px;
+  color: #12d640;
+  margin-right: 10px;
+}
+
+.contact .info-box h3 {
+  font-size: 20px;
+  color: #12d640;
+  margin-bottom: 15px;
+}
+
+.contact .info-box ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.contact .info-box ul li {
+  margin-bottom: 10px;
+}
+
+.section-title h2 {
+  font-size: 36px;
+  color: #12d640;
+  margin-bottom: 20px;
+}
+
+.section-title p {
+  font-size: 18px;
+}
+
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
