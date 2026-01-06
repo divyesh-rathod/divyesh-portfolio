@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bcc6f29.css",
+    "main.js": "/static/js/main.a44ffab9.js",
+    "static/css/64.266f51bc.chunk.css": "/static/css/64.266f51bc.chunk.css",
+    "static/js/64.30a2b515.chunk.js": "/static/js/64.30a2b515.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.624d84ac.chunk.js": "/static/js/769.624d84ac.chunk.js",
+    "static/media/packetpluse.png": "/static/media/packetpluse.81242e676ab0b7079ad3.png",
+    "static/media/smartnews.png": "/static/media/smartnews.2a245e3a588dd4fa442f.png",
+    "static/media/transformer.png": "/static/media/transformer.cb79fd47a72a23dbc53a.png",
+    "static/media/banking system.png": "/static/media/banking system.d4b478381f641bcd3d16.png",
+    "static/media/api backend java.png": "/static/media/api backend java.0c3df8b5bdbd2ae07891.png",
+    "static/media/warehouse simulation.png": "/static/media/warehouse simulation.4f17403b87c0e347e86b.png",
+    "static/media/optimalpay.png": "/static/media/optimalpay.740c37aa67edd5942b89.png",
+    "static/media/personal.png": "/static/media/personal.783372a0847bce1e20b2.png",
+    "static/media/vvp101.png": "/static/media/vvp101.5914dcdf31ef945e191f.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/github.png": "/static/media/github.b2186794cd7b5db63220.png",
+    "static/media/cu102.png": "/static/media/cu102.4d11f0125ccda874b403.png",
+    "static/media/emplogo1.png": "/static/media/emplogo1.c9de6878950ea95238b3.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.0bcc6f29.css.map": "/static/css/main.0bcc6f29.css.map",
+    "main.a44ffab9.js.map": "/static/js/main.a44ffab9.js.map",
+    "64.266f51bc.chunk.css.map": "/static/css/64.266f51bc.chunk.css.map",
+    "64.30a2b515.chunk.js.map": "/static/js/64.30a2b515.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.624d84ac.chunk.js.map": "/static/js/769.624d84ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bcc6f29.css",
+    "static/js/main.a44ffab9.js"
+  ]
+}
