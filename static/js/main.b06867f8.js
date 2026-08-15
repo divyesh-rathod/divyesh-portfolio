@@ -14,9 +14,9 @@
       "Designing scalable systems where software meets intelligence is what drives me. I am a Software Engineer with a strong focus on machine learning, delivering data-driven solutions through clear communication, teamwork, and disciplined execution asap. Open to internships and co-op for Summer 2026",
     ),
     resumeLink:
-      "https://drive.google.com/file/d/1uTTqvBemnI2apFkCvd0S3SmxPxUX2nMx/view?usp=sharing",
+      "https://drive.google.com/file/d/1IUfk46yGDh9raWcB9iNvL1QLkM8n3qtc/view?usp=sharing",
     resumeDownloadLink:
-      "https://drive.google.com/uc?export=download&id=1uTTqvBemnI2apFkCvd0S3SmxPxUX2nMx",
+      "https://drive.google.com/uc?export=download&id=1IUfk46yGDh9raWcB9iNvL1QLkM8n3qtc",
     displayGreeting: !0,
   },
   l = {
