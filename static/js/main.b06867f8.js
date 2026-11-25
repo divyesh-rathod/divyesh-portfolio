@@ -11,7 +11,7 @@
     username: "Divyesh Rathod",
     title: "Hi, I'm Divyesh Rathod",
     subTitle: n()(
-      "Full Stack Developer at Lightspeed Commerce with 4+ years of experience building production software where great products meet intelligent systems \u2014 from React, Next.js, and TypeScript frontends to Node.js and Python backends and LLM-powered workflows. Open to full-time Software Engineer and Full Stack opportunities in Canada.",
+      "Applied AI and Full Stack Engineer with 4+ years of experience shipping production LLM systems. At Lightspeed Commerce, I built an AI inventory intake system end to end that turns supplier PDFs and photos into inventory proposals merchants can trust, cutting data-entry effort by 18%. I work across Python/FastAPI, LangGraph, pgvector, React, and Next.js. Open to full-time Applied AI, AI/LLM, and Full Stack Engineer roles in Canada.",
     ),
     resumeLink:
       "https://drive.google.com/file/d/1IUfk46yGDh9raWcB9iNvL1QLkM8n3qtc/view?usp=sharing",
@@ -48,6 +48,15 @@
     { skillName: "matplotlib", fontAwesomeClassname: "fas fa-chart-line" },
     { skillName: "Hugging Face", fontAwesomeClassname: "fas fa-robot" },
     { skillName: "LangChain", fontAwesomeClassname: "fas fa-link" },
+    { skillName: "LangGraph", fontAwesomeClassname: "fas fa-network-wired" },
+    { skillName: "MCP", fontAwesomeClassname: "fas fa-plug" },
+    { skillName: "pgvector", fontAwesomeClassname: "fas fa-vector-square" },
+    { skillName: "OpenAI API", fontAwesomeClassname: "fas fa-brain" },
+    { skillName: "Next.js", fontAwesomeClassname: "fas fa-forward" },
+    { skillName: "Redis", fontAwesomeClassname: "fas fa-memory" },
+    { skillName: "Celery", fontAwesomeClassname: "fas fa-tasks" },
+    { skillName: "Kubernetes", fontAwesomeClassname: "fas fa-dharmachakra" },
+    { skillName: "OpenTelemetry", fontAwesomeClassname: "fas fa-satellite-dish" },
     { skillName: "NLTK", fontAwesomeClassname: "fas fa-book" },
     { skillName: "spaCy", fontAwesomeClassname: "fas fa-comments" },
     { skillName: "HTML5", fontAwesomeClassname: "fab fa-html5" },
@@ -69,19 +78,19 @@
       {
         title: "What do I do",
         subTitle:
-          "Full-Stack Developer | Building Intelligent, Data-Driven Systems",
+          "Applied AI Engineer | Full Stack | Production LLM Systems",
         skills: [
           n()(
-            "\u26a1Deliver Full-Stack Solutions: Building end-to-end applications with modern frontend and backend frameworks, secure APIs, and scalable cloud infrastructure",
+            "\u26a1 Ship LLM Systems to Production: multimodal extraction, LangGraph workflows with human-in-the-loop review, MCP tool servers, and the validation, retries, and confidence scoring that make AI output safe to act on",
           ),
           n()(
-            "\u26a1Integrate Intelligent Systems: Embedding ML models, NLP pipelines, and recommendation engines into production-ready software",
+            "\u26a1 Build Retrieval and Memory: RAG and conversational memory with pgvector and sentence embeddings, cutting LLM input tokens per request by 72-86%",
           ),
           n()(
-            "\u26a1Drive Performance & Efficiency: Optimizing systems with async workflows, batching, and efficient data structures for speed and reliability",
+            "\u26a1 Deliver Full-Stack Products: React, Next.js, and TypeScript frontends on Python/FastAPI and Node.js backends with PostgreSQL, Redis, and Celery",
           ),
           n()(
-            "\u26a1 Engineer with Best Practices: Applying TDD, clean architecture, and system design principles to create maintainable, production-quality solutions",
+            "\u26a1 Run It Reliably: OpenTelemetry, Prometheus, and Grafana observability, SLOs with burn-rate alerts, and testing and CI/CD with pytest, Playwright, Docker, AWS, Kubernetes, and GitHub Actions",
           ),
         ],
         softwareSkills: u,
@@ -95,7 +104,7 @@
       {
         schoolName: "Carleton University",
         logo: r(640),
-        subHeader: "MEng in Software Engineering",
+        subHeader: "Master of Engineering Practice",
         duration: "September 2024 - April 2026",
         desc: "Completed my MEng with strong foundations in software design, systems, and security. Served as Head Teaching Assistant for COMP 3007 \u2013 Programming Paradigms with ownership of TA coordination, grading workflows, and grade releases. Previously supported Abstract Data Structures and Algorithms, helping students develop strong algorithmic reasoning. Completed advanced coursework in Secure Systems, Agile and Test-Driven Development, Engineering Communication, and Data Analysis.",
         descBullets: [
@@ -132,11 +141,13 @@
         companylogo: r(7411),
         bannerColor: "#e51b1b",
         date: "May 2025 - Present · Remote, Canada",
-        desc: "Own end-to-end merchant-facing catalog and inventory workflows across frontend, backend, and LLM-powered systems, translating product requirements into retail experiences while partnering with Product, Design, QA, and platform teams.",
+        desc: "Own end-to-end merchant catalog and inventory workflows across frontend, backend, and LLM-powered systems, partnering with Product, Design, QA, and platform teams.",
         descBullets: [
-          "Reduced repetitive merchandising effort by 15% using React, Next.js, TypeScript, React Query, and Redux Toolkit",
-          "Cut inventory data-entry effort by 18% through multimodal and LLM-powered workflows",
-          "Reduced workflow defects by 10% using automated testing, Docker, AWS, and GitHub Actions",
+          "Built an AI multimodal inventory intake system end to end that turns supplier PDFs, photos, and text into inventory proposals, cutting data-entry effort by 18%",
+          "Designed the pipeline around one rule, AI proposes and code commits: text and vision extraction, deterministic validation with targeted retries, SKU matching through a read-only MCP agent, confidence scoring, and LangGraph human-in-the-loop review",
+          "Backed it with an immutable inventory ledger, idempotent invoices, and server-side tenant isolation on FastAPI, PostgreSQL, Celery, and Redis, with OpenTelemetry, Prometheus, and Grafana observability",
+          "Cut repetitive merchandising effort by 15% with React, Next.js, TypeScript, React Query, and Redux Toolkit",
+          "Cut workflow defects by 10% with pytest, Jest, Playwright, Docker, AWS, and GitHub Actions",
         ],
       },
       {
@@ -144,11 +155,12 @@
         company: "Almighty InfoTech",
         companylogo: r(4717),
         date: "July 2022 - July 2024 · India",
-        desc: "Worked as a Full Stack Software Engineer on production conversational systems, owning backend services, real-time communication, and retrieval performance while collaborating with QA and cross-functional teams.",
+        desc: "Full Stack Software Engineer on production conversational AI systems, owning the real-time messaging backend, LLM memory and retrieval, and voice workflows.",
         descBullets: [
-          "Improved chatbot responsiveness by 40% using Node.js, Express, and real-time socket communication",
-          "Reduced diagnosis effort by 20% through structured logging, validation, and voice-processing workflows",
-          "Reduced recurring release defects by 15% through integration testing and root-cause analysis",
+          "Moved the chatbot from REST polling to WebSockets (Socket.IO, NGINX, Redis adapter), designed for 11,500 writes/sec, improving responsiveness by 40%",
+          "Built a conversational memory layer with BGE embeddings and pgvector retrieval, cutting LLM input tokens per request by 72-86%",
+          "Built FastAPI + pgvector RAG retrieval and voice-to-text pipelines, reducing diagnosis effort by 20%",
+          "Reduced recurring release defects by 15% through integration testing and root-cause analysis with QA",
         ],
       },
       {
@@ -170,20 +182,20 @@
   m = {
     title: "Projects",
     subtitle:
-      "Projects built from curiosity and a passion for solving real-world problem",
+      "Applied AI, ML, and systems projects built to solve real problems",
     projects: [
       {
         image: r(1388),
         projectName: "OptimalPay Backend (ExpressJS)",
         projectDesc:
-          "OptimalPay is an algorithm-driven debt optimization system that evaluates multiple repayment strategies using priority-based categorization, O(log n) priority queue operations, and adaptive planning with detailed monthly projections.",
+          "Algorithm-driven debt repayment engine that compares strategies with A* search, memoization, and min-heap priority queues, producing detailed monthly projections. Cut runtime from 60 s to under 8 s.",
         github: "https://github.com/divyesh-rathod/OptimalPay-Backend",
       },
       {
         image: r(8961),
         projectName: "Smart News Backend (Python FastAPI)",
         projectDesc:
-          "This ML pipeline transforms raw news articles into personalized recommendations through a multi-stage process involving web scraping, text processing, embedding generation, vector search, and neural reranking.",
+          "ML recommendation pipeline that ingests 50+ RSS feeds, embeds articles with Sentence Transformers, runs pgvector search with cross-encoder reranking, and serves personalized news with sub-100ms retrieval latency.",
         github: "https://github.com/divyesh-rathod/Smart-News-Backend",
       },
       {
