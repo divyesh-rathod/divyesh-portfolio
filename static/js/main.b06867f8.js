@@ -11,7 +11,7 @@
     username: "Divyesh Rathod",
     title: "Hi, I'm Divyesh Rathod",
     subTitle: n()(
-      "Designing scalable systems where software meets intelligence is what drives me. I am a Software Engineer with a strong focus on machine learning, delivering data-driven solutions through clear communication, teamwork, and disciplined execution asap. Open to internships and co-op for Summer 2026",
+      "Full Stack Developer at Lightspeed Commerce with 4+ years of experience building production software where great products meet intelligent systems \u2014 from React, Next.js, and TypeScript frontends to Node.js and Python backends and LLM-powered workflows. Open to full-time Software Engineer and Full Stack opportunities in Canada.",
     ),
     resumeLink:
       "https://drive.google.com/file/d/1IUfk46yGDh9raWcB9iNvL1QLkM8n3qtc/view?usp=sharing",
@@ -96,8 +96,8 @@
         schoolName: "Carleton University",
         logo: r(640),
         subHeader: "MEng in Software Engineering",
-        duration: "September 2024 - December 2026",
-        desc: "Graduate student with strong foundations in software design, systems, and security. Serving as Head Teaching Assistant for COMP 3007 \u2013 Programming Paradigms with ownership of TA coordination, grading workflows, and grade releases. Previously supported Abstract Data Structures and Algorithms, helping students develop strong algorithmic reasoning. Completed advanced coursework in Secure Systems, Agile and Test-Driven Development, Engineering Communication, and Data Analysis.",
+        duration: "September 2024 - April 2026",
+        desc: "Completed my MEng with strong foundations in software design, systems, and security. Served as Head Teaching Assistant for COMP 3007 \u2013 Programming Paradigms with ownership of TA coordination, grading workflows, and grade releases. Previously supported Abstract Data Structures and Algorithms, helping students develop strong algorithmic reasoning. Completed advanced coursework in Secure Systems, Agile and Test-Driven Development, Engineering Communication, and Data Analysis.",
         descBullets: [
           "Secure Systems: SSL/TLS, networking fundamentals, IP protocols, and security best practices",
           "Agile & TDD: Mockito-driven unit and integration testing",
@@ -212,7 +212,7 @@
         projectName: "Smart News Frontend (React - TypeScript) ",
         projectDesc:
           "Smart News Frontend is a React TypeScript application delivering AI-powered personalized news with real-time recommendations, secure authentication, infinite scrolling, and optimized state management using Redux Toolkit.",
-        github: "https://github.com/divyesh-rathod/Smart-News-Backend",
+        github: "https://github.com/divyesh-rathod/smart-news-frontend",
       },
       {
         image: r(1014),
@@ -331,7 +331,7 @@
   k = {
     title: n()("Contact Me \u260e\ufe0f"),
     subtitle:
-      "Looking to connect! Whether it\u2019s a project, a hello,My inbox is open for all,and I am also looking for co-op opportunities for Summer 2026.",
+      "Whether it\u2019s a full-time role, a project idea, or just a hello \u2014 my inbox is always open, and I\u2019ll get back to you quickly.",
     email_address: "divyeshrathod096@gmail.com",
   },
   E = { userName: "twitter", display: !1 },
